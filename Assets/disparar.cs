@@ -21,7 +21,7 @@ public class disparar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        selfobject.activated += onAutomatico;
+        //selfobject.activated += onAutomatico;
     }
 
     public void onAutomatico()
